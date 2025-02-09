@@ -1,2 +1,3 @@
 THis is File2
 Added new line by Branch1
+Added new line by Branch2
